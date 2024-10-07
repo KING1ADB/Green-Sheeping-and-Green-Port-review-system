@@ -4,7 +4,7 @@ import os
 import time
 
 # Set your OpenAI API key here
-openai.api_key = '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'
+openai.api_key = 'Open ai key'
 
 def annotate_data(data_file, output_file):
     # Load the data with explicit encoding
